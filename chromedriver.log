@@ -1,0 +1,5 @@
+Starting ChromeDriver 131.0.6778.264 (2d05e31515360f4da764174f7c448b33e36da871-refs/branch-heads/6778@{#4323}) on port 4444
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1737110603.242][SEVERE]: bind() failed: Address already in use (48)
+IPv4 port not available. Exiting...
